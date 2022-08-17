@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%20EVE-Online-Kills-Table/static/css/main.073c9b0a.css",
-    "main.js": "/%20EVE-Online-Kills-Table/static/js/main.0232dd56.js",
-    "static/js/787.c5786b08.chunk.js": "/%20EVE-Online-Kills-Table/static/js/787.c5786b08.chunk.js",
-    "index.html": "/%20EVE-Online-Kills-Table/index.html",
-    "main.073c9b0a.css.map": "/%20EVE-Online-Kills-Table/static/css/main.073c9b0a.css.map",
-    "main.0232dd56.js.map": "/%20EVE-Online-Kills-Table/static/js/main.0232dd56.js.map",
-    "787.c5786b08.chunk.js.map": "/%20EVE-Online-Kills-Table/static/js/787.c5786b08.chunk.js.map"
+    "main.css": "/EVE-Online-Kills-Table/static/css/main.073c9b0a.css",
+    "main.js": "/EVE-Online-Kills-Table/static/js/main.a0f2c2bb.js",
+    "static/js/787.c5786b08.chunk.js": "/EVE-Online-Kills-Table/static/js/787.c5786b08.chunk.js",
+    "index.html": "/EVE-Online-Kills-Table/index.html",
+    "main.073c9b0a.css.map": "/EVE-Online-Kills-Table/static/css/main.073c9b0a.css.map",
+    "main.a0f2c2bb.js.map": "/EVE-Online-Kills-Table/static/js/main.a0f2c2bb.js.map",
+    "787.c5786b08.chunk.js.map": "/EVE-Online-Kills-Table/static/js/787.c5786b08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0232dd56.js"
+    "static/js/main.a0f2c2bb.js"
   ]
 }
